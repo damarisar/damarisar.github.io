@@ -1,6 +1,6 @@
 self.importScripts('/damarisar.github.io/assets/js/data/swcache.js');
 
-const cacheName = 'chirpy-20230527.072231';
+const cacheName = 'chirpy-20230526.163724';
 
 function verifyDomain(url) {
     for (const domain of allowedDomains) {

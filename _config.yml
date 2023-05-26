@@ -13,20 +13,21 @@ baseurl: "/damarisar.github.io"
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Los_Angeles
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Damaris Arteaga # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: I am an undergraduate student at the University of California, Berkeley pursuing a B.S. in Environmental Economics and Policy in the Rausser College of Natural Resources. 
+  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A personal website for Damaris Arteaga
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "damarisar.github.io"
+url: "https://damarisar.github.io"
 
 github:
   username: damarisar # change to your github username
@@ -80,7 +81,7 @@ theme_mode: # [light|dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "/commons/damaris.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
