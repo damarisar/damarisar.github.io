@@ -29,14 +29,20 @@ const resource = [
         '/damarisar.github.io/assets/img/favicons/favicon-16x16.png',
         '/damarisar.github.io/assets/img/favicons/favicon-32x32.png',
         '/damarisar.github.io/assets/img/favicons/favicon.ico',
-        '/damarisar.github.io/assets/img/favicons/mstile-150x150.png'
+        '/damarisar.github.io/assets/img/favicons/mstile-150x150.png',
+        '/damarisar.github.io/assets/js/dist/categories.min.js',
+        '/damarisar.github.io/assets/js/dist/commons.min.js',
+        '/damarisar.github.io/assets/js/dist/home.min.js',
+        '/damarisar.github.io/assets/js/dist/misc.min.js',
+        '/damarisar.github.io/assets/js/dist/page.min.js',
+        '/damarisar.github.io/assets/js/dist/post.min.js'
 ];
 
 /* The request url with below domain will be cached */
 const allowedDomains = [
     
 
-    '0.0.0.0:4000',
+    'localhost:4000',
 
     
         'chirpy-img.netlify.app',
